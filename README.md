@@ -4,7 +4,7 @@
 
 - **Student Name:** Shaik Shahid
 - **Register Number:** 1925260075
-- **Repository:**
+- **Repository:**https://github.com/shahidshaik210109-dev/c-programming-ASS-3.git
 - **Course Code:** CSA02
 - **Course Outcome:** CO3
 - **Assignment:** Assignment 3
